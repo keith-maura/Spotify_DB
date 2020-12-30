@@ -1,0 +1,298 @@
+artist_id,artist_name,popularity
+1,Childish Gambino,83
+2,Khalid,93
+3,The Revivalists,63
+4,Judah & the Lion,65
+5,BENEE,84
+6,BROCKHAMPTON,81
+7,Cuco,76
+8,Labrinth,80
+9,Tones And I,86
+10,Absofacto,64
+11,Evan McIntosh,53
+12,Rex Orange County,81
+13,Audrey Mika,69
+14,Cold War Kids,66
+15,Florence + The Machine,78
+16,Sia,87
+17,MIIA,56
+18,The Beatles,90
+19,Michael Bublé,78
+20,Louis The Child,75
+21,SHAED,72
+22,Kanye West,91
+23,Lemaitre,60
+24,blackbear,86
+25,Ødyssey,43
+26,LSD,87
+27,Twenty One Pilots,87
+28,Jai Wolf,65
+29,ODESZA,75
+30,ZHU,72
+31,Selena Gomez,88
+32,Flight Facilities,64
+33,Green Day,83
+34,What So Not,64
+35,KYLE,77
+36,Harry Styles,90
+37,Dua Lipa,94
+38,Bebe Rexha,85
+39,Sam Feldt,81
+40,Charlie Puth,83
+41,Lizzo,82
+42,Normani,78
+43,Colony House,59
+44,Shawn Mendes,89
+45,Jonas Brothers,85
+46,Regard,80
+47,Ava Max,87
+48,5 Seconds of Summer,86
+49,Marshmello,89
+50,Lukas Graham,77
+51,Bastille,82
+52,Whethan,71
+53,Snakehips,70
+54,Queen,90
+55,Afroman,64
+56,Olly Murs,71
+57,Vance Joy,78
+58,The Lumineers,79
+59,Phillip Phillips,65
+60,Edward Sharpe & The Magnetic Zeros,66
+61,Of Monsters and Men,73
+62,AJR,78
+63,X Ambassadors,79
+64,Matthew Mole,55
+65,Adele,85
+66,Mumford & Sons,79
+67,Van William,40
+68,CeeLo Green,69
+69,Panic! At The Disco,85
+70,The All-American Rejects,71
+71,Robert DeLong,52
+72,Andy Grammer,78
+73,WALK THE MOON,73
+74,MKTO,73
+75,The Chainsmokers,88
+76,Beyoncé,90
+77,DRAM,68
+78,Owl City,73
+79,Neon Trees,70
+80,Rixton,66
+81,Mike Posner,74
+82,Hot Chelle Rae,66
+83,MAGIC!,71
+84,Usher,83
+85,Jack & Jack,72
+86,Aer,57
+87,Modest Mouse,68
+88,Tom Rosenthal,65
+89,Michael Henry & Justin Robinett,38
+90,Timmies,70
+91,The Beach Boys,78
+92,Blue Swede,65
+93,Electric Light Orchestra,76
+94,The Jackson 5,71
+95,Rupert Holmes,64
+96,Looking Glass,62
+97,Eurythmics,71
+98,a-ha,74
+99,Dead Or Alive,61
+100,MICHELLE,43
+101,Amber Mark,64
+102,Surfaces,83
+103,khai dreams,73
+104,Jessie Reyez,79
+105,SZA,82
+106,Sure Sure,59
+107,Amy Winehouse,78
+108,Zella Day,61
+109,Zugos,22
+110,John Newman,72
+111,c a n d i d !,37
+112,Mac Miller,87
+113,Kehlani,85
+114,Miguel,82
+115,Garrickson,34
+116,Sam Fender,68
+117,Post Malone,95
+118,The Weeknd,97
+119,Billie Eilish,94
+120,Estelle,69
+121,John Powell,66
+122,Michael Giacchino,68
+123,Rihanna,91
+124,Elvin Bishop,55
+125,Paul Anka,67
+126,The Righteous Brothers,65
+127,Gus Dapperton,83
+128,Christina Aguilera,81
+129,Demi Lovato,86
+130,Bruno Mars,89
+131,Elton John,85
+132,Sutton Foster,50
+133,Sam Smith,89
+134,Gloria Gaynor,67
+135,Nick Cave & The Bad Seeds,68
+136,Nina Simone,74
+137,Ariana Grande,95
+138,Whitney Houston,81
+139,Dreamville,75
+140,Vic Mensa,69
+141,RunitupTahj,43
+142,DaBaby,94
+143,Yung Gravy,77
+144,josh pan,50
+145,Jason Mraz,80
+146,Sonder,59
+147,Brasstracks,56
+148,Sugi.wa,56
+149,Everyone You Know,56
+150,Macklemore & Ryan Lewis,78
+151,RL Grime,69
+152,"Tyler, The Creator",70
+153,Kevin Abstract,68
+154,Dominic Fike,76
+155,Lil Mosey,87
+156,Tory Lanez,88
+157,Pop Smoke,85
+158,T.I.,79
+159,ScHoolboy Q,79
+160,Smino,74
+161,Arizona Zervas,83
+162,Megan Thee Stallion,87
+163,Iggy Azalea,76
+164,Doja Cat,91
+165,J. Cole,88
+166,OutKast,77
+167,Travis Scott,98
+168,Britney Spears,82
+169,Sean Kingston,74
+170,Tame Impala,83
+171,Drake,99
+172,half·alive,66
+173,6ix9ine,88
+174,The Neighbourhood,80
+175,Iyaz,69
+176,Y2K,75
+177,3OH!3,67
+178,Ashnikko,69
+179,Roddy Ricch,94
+180,The Killers,81
+181,The Hails,45
+182,Glass Animals,74
+183,Gucci Mane,85
+184,Avril Lavigne,80
+185,Kelly Clarkson,79
+186,Snoop Dogg,86
+187,Rae Sremmurd,79
+188,A Boogie Wit da Hoodie,89
+189,Gnarls Barkley,68
+190,Cali Swag District,52
+191,Kodak Black,84
+192,A$AP Rocky,86
+193,Bazzi,85
+194,Black Eyes Peas,86
+195,Loud Luxury,77
+196,Young Thug,92
+197,UMI,70
+198,Fatboibari,63
+199,Peachy!,67
+200,Maxo Kream,65
+201,Bryce Vine,76
+202,YNW Melly,85
+203,Miley Cyrus,84
+204,Soulja Boy,71
+205,G-Eazy,86
+206,R. Kelly,72
+207,Ray J,61
+208,Jason Derulo,82
+209,Sean Paul,83
+210,Ciara,75
+211,Akon,82
+212,Trey Songz,79
+213,Lil Jon & The East Side Boyz,66
+214,Cobra Starship,62
+215,Nelly,78
+216,Waka Flocka Flame,70
+217,Katy Perry,88
+218,Timeflies,64
+219,Plain White T's,70
+220,We The Kings,68
+221,Passenger,76
+222,The Script,79
+223,Ron Pope,62
+224,Alex & Sierra,69
+225,James Bay,78
+226,A Great Big World,70
+227,Birdy,75
+228,Christina Perri,75
+229,gnash,76
+230,Calum Scott,78
+231,Ed Sheeran,86
+232,Nicki Minaj,92
+233,The Fray,80
+234,Haley Reinhart,73
+235,Niall Horan,83
+236,James Arthur,85
+237,Snow Patrol,73
+238,Colbie Caillat,74
+239,Tori Kelly,73
+240,Louis Tomlinson,75
+241,Migos,85
+242,Asher Roth,57
+243,Ty Dolla $ign,88
+244,JAY-Z,86
+245,Troy Ave,56
+246,Social House,75
+247,Red Hot Chili Peppers,86
+248,Rascal Flatts,75
+249,Lil Wayne,90
+250,Lorde,73
+251,Sammy Adams,61
+252,Wes Walker,55
+253,WATCH THE DUCK,48
+254,Tiësto,84
+255,Quinn XCII,79
+256,Big Boi,62
+257,mike.,71
+258,Kid Quill,60
+259,Skizzy Mars,64
+260,Hippo Campus,69
+261,Conan Gray,80
+262,NEEDTOBREATHE,69
+263,Ritt Momney,51
+264,Grouplove,72
+265,Camila Cabello,89
+266,Halsey,91
+267,070 Shake,65
+268,Creamy,27
+269,Orion Sun,58
+270,Inner Wave,59
+271,Jesse,60
+272,B.J. Thomas,54
+273,Carpenters,71
+274,Bee Gees,78
+275,America,71
+276,Eagles,80
+277,Boston,71
+278,Chicago,73
+279,Don McLean,69
+280,"Earth, Wind & Fire",76
+281,Daryl Hall & John Oates,76
+282,CHIC,65
+283,Hot Chocolate,62
+284,Seals and Crofts,61
+285,The Doobie Brothers,73
+286,Wings,69
+287,Carly Simon,67
+288,Michael Jackson,85
+289,Hues Corporation,52
+290,The Knack,62
+291,Fleetwood Mac,83
+292,Leonard Cohen,71
+293,Ladytron,51
+294,The Sounds,54
+295,Duran Duran,72
+296,Metric,62
+297,Wall Of Voodoo,41

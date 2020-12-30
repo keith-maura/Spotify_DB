@@ -1,0 +1,358 @@
+album_id,album_name,artist_id,release_date,popularity
+1,"Awaken, My Love!",1,2016-12-02,78
+2,Suncity,2,2018-10-19,72
+3,Men Amongst Mountains,3,2015-07-15,65
+4,Folk Hop N' Roll,4,2017-03-10,63
+5,FIRE ON MARZZ,5,2019-06-28,77
+6,SATURATION,6,2017-06-09,72
+7,Chiquito,7,2018-05-04,70
+8,Mount Everest,8,2019-06-21,63
+9,Dance Monkey,9,2019-10-17,88
+10,Thousand Peaces,10,2017-11-03,69
+11,Para Mi,7,2019-07-26,72
+12,Ur So F**kInG cOoL,9,2020-05-29,68
+13,MOJO,11,2019-10-07,58
+14,Sunflower,12,2017-03-22,73
+15,Y U Gotta B Like That,13,2019-06-02,67
+16,LA DIVINE,14,2017-04-07,61
+17,Lungs,15,2009-01-01,69
+18,1000 Forms Of Fear,16,2015-05-04,71
+19,Dynasty,17,2015-09-22,56
+20,Revolver,18,1966-08-05,75
+21,It's Time,19,2005-02-07,64
+22,Fire,20,2016-09-30,57
+23,STELLA & STEVE,5,2019-11-15,89
+24,Love Is Alive,20,2017-01-27,54
+25,MELT,21,2018-09-21,67
+26,Yeezus,22,2013-01-01,75
+27,Graduation,22,2007-09-11,82
+28,Chapter One,23,2017-06-02,61
+29,digital druglord,24,2017-04-21,78
+30,Fly,25,2017-02-24,34
+31,"LABRINTH, SIA & DIPLO PRESENT… LSD",26,2019-04-12,79
+32,Blurryface,27,2015-05-15,86
+33,Indian Summer,28,2015-06-09,55
+34,Summer's Gone,29,2012-09-05,62
+35,Misbehaving,8,2017-09-15,39
+36,In Return,29,2014-09-08,70
+37,GENERATIONWHY,30,2016-07-29,66
+38,Revival,31,2015-10-09,69
+39,Crave You,32,2010-03-26,55
+40,Greatest Hits: God's Favorite Band,33,2017-11-17,72
+41,High You Are,34,2013-10-08,57
+42,Light of Mine,35,2016-12-02,71
+43,Watermelon Sugar,36,2019-12-13,94
+44,Break My Heart,37,2020-03-25,83
+45,I'm Gonna Show You Crazy,38,2014-12-19,62
+46,Magnets,39,2019-05-24,75
+47,Mother,40,2019-09-12,61
+48,Cuz I Love You,41,2019-04-19,78
+49,Motivation,42,2019-08-16,72
+50,Only The Lonely,43,2017-01-13,59
+51,Shawn Mendes,44,2019-06-19,80
+52,Happiness Begins,45,2019-06-07,86
+53,What A Man Gotta Do,45,2020-01-17,80
+54,Ride It,46,2019-07-26,84
+55,Bad Child/Can't Be Happy All The Time,9,2020-03-11,75
+56,American Teen,2,2017-04-27,87
+57,Sweet but Psycho,47,2018-08-17,79
+58,Youngblood,48,2018-06-15,82
+59,Happier,49,2018-08-17,81
+60,Lukas Graham,50,2016-04-01,76
+61,Wild World,51,2016-09-09,67
+62,Some Type of Love,40,2016-05-01,65
+63,If I Can't Have You,44,2019-05-03,76
+64,Can't Hide,52,2016-08-12,53
+65,All My Friends,53,2015-10-21,68
+66,Kids At Play,20,2018-10-26,71
+67,Stone Cold Classics,54,2006-01-01,55
+68,The Good Times,55,2001-08-28,69
+69,Right Place Right Time,56,2011-01-01,62
+70,When I'm Down,52,2016-10-21,64
+71,Last To Leave,20,2017-12-08,54
+72,Nation of Two,57,2018-02-23,73
+73,The Lumineers,58,2012-04-03,71
+74,The World From The Side Of The Moon,59,2013-01-01,67
+75,Up from Below,60,2009-07-07,64
+76,My Head Is An Animal,61,2012-01-01,75
+77,Neotheater,62,2019-04-26,72
+78,Cleopatra,58,2016-04-08,72
+79,Dream Your Life Away,57,2014-09-09,77
+80,Vessel,27,2013-01-08,79
+81,VHS,63,2015-06-30,75
+82,Run,64,2016-07-22,47
+83,21,65,2011-01-19,80
+84,Sign No More,66,2009-10-02,70
+85,Revolution,67,2018-01-19,44
+86,The Lady Killer,68,2010-11-09,62
+87,A Fever You Can't Sweat Out,69,2005-09-27,73
+88,When The World Comes Down,70,2008-01-01,67
+89,hot girl bummer,24,2019-08-23,83
+90,Deadroses,24,2015-02-14,76
+91,In the Cards,71,2015-09-18,49
+92,Just Movement,71,2013-01-01,43
+93,Andy Grammer,72,2011-06-14,68
+94,TALKING IS HARD,73,2014-12-02,75
+95,MKTO,74,2012-01-01,76
+96,Closer,75,2017-06-02,61
+97,4,76,2011-06-24,79
+98,Cash Machine,77,2016-09-09,33
+99,The Midsummer Station,78,2012-01-01,70
+100,Habits,79,2010-01-01,66
+101,Let The Road,80,2014-01-01,72
+102,Cooler Than Me,81,2009-12-15,62
+103,Whatever,82,2011-11-25,72
+104,Don't Kill the Magic,83,2014-06-25,73
+105,Raymond v Raymond,84,2010-03-30,75
+106,Groove,85,2014-11-22,39
+107,The Bright Side,86,2012-07-30,59
+108,Good News For People Who Love Bad News,87,2004-04-05,68
+109,Bolu,88,2015-04-13,48
+110,Michael Henry & Justin Robinett,89,2012-01-09,41
+111,Vivid Pictures,90,2018-03-13,60
+112,50 Big Ones: Greatest Hits,91,2012-01-01,70
+113,Hooked On A Feeling,92,1973-01-01,70
+114,Out of the Blue,93,1977-01-01,76
+115,Diana Ross Presents The Jackson 5,94,1969-12-18,71
+116,Partners In Crime,95,1979-01-01,69
+117,Looking Glass,96,1972-01-01,69
+118,Greatest Hits,54,1981-10-26,62
+119,Sweet Dreams (Are Made Of This),97,1983-01-04,75
+120,Hunting High and Low,98,1985-06-01,78
+121,Youthquake,99,1985-03-26,66
+122,The Works,54,1984-02-27,65
+123,HEATWAVE,100,2018-09-04,49
+124,What If,101,2019-04-04,56
+125,Surf,102,2017-12-03,67
+126,Now and Then,103,2019-10-11,69
+127,Being Human In Public,104,2018-10-19,63
+128,The Weekend,105,2017-06-09,81
+129,Funky Galileo,106,2020-03-06,50
+130,Lioness: Hidden Treasures,107,2011-01-01,69
+131,Man on the Moon,108,2016-10-21,47
+132,Gen Z,109,2018-08-29,6
+133,Tribute,110,2013-01-01,61
+134,Bananas for Breakfast,111,2017-10-02,40
+135,The Divine Feminine,112,2016-09-16,77
+136,You Should Be Here,113,2015-04-28,67
+137,Ctrl,105,2017-06-09,81
+138,War & Leisure,114,2017-12-01,76
+139,All I Want Is You,114,2010-11-26,73
+140,With You,115,2016-05-24,36
+141,It Was Good Until It Wasn't,113,2020-05-08,84
+142,Hypersonic Missiles,116,2019-09-13,71
+143,Apricot Princess,12,2017-04-26,74
+144,Spider-Man: Into the Spider-Verse,117,2018-12-14,85
+145,After Hours,118,2020-03-20,99
+146,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",119,2019-03-29,95
+147,Because the Internet,1,2013-12-10,77
+148,Shine,120,2008-03-28,73
+149,Kung Fu Panda 2,121,2011-01-01,37
+150,The Incredibles,122,2004-11-02,50
+151,ANTI,123,2016-01-28,84
+152,Struttin' My Stuff,124,1975-01-01,55
+153,Put You Head On My Shoulder: The Very Best Of Paul Anka,125,2000-10-03,69
+154,The Very Best Of The Righteous Brothers,126,1990-01-01,63
+155,Where Polly People Go to Read,127,2019-04-19,59
+156,Burlesque Original Motion Picture Soundtrack,128,2010-11-22,60
+157,Confident,129,2015-10-16,74
+158,A Day At The Races,54,1976-12-10,64
+159,Unorthodox Jukebox,130,2012-12-07,83
+160,Doo-Wops & Hooligans,130,2010-10-05,82
+161,Too Low For Zero,131,1983-05-30,75
+162,I AM...SASHA FIERCE,76,2008-11-14,72
+163,Thoroughly Modern Millie,132,2002-01-01,48
+164,In The Lonely Hour,133,2015-11-06,77
+165,20th Century Masters: The Millennium Collection,134,2000-01-01,65
+166,Abattoir Blues / The Lyre of Orpheus,135,2004-09-20,59
+167,I Put A Spell On You,136,1965-06-01,71
+168,Music From The Motion Picture Cadillac Records,76,2008-11-28,56
+169,Yours Truly,137,2013-01-01,68
+170,Whitney,138,1987-06-02,77
+171,The Bodyguard,138,1992-11-17,75
+172,Back To Black,107,2006-10-27,76
+173,"thank u, next",137,2019-02-08,90
+174,Dangerous Woman,137,2016-05-20,84
+175,Revenge Of The Dreamers III,139,2019-07-05,79
+176,The Autobiography,140,2017-07-28,56
+177,Hit Yo Groove,141,2019-12-31,50
+178,Baby On Baby,142,2019-03-01,82
+179,Welcome to Chilis,143,2020-01-17,66
+180,Kys,144,2016-09-05,13
+181,YES!,145,2014-07-14,48
+182,Too Fast,146,2016-10-25,58
+183,Change For Me,147,2020-05-13,48
+184,Urtha1,148,2018-05-30,43
+185,Play God,149,2019-12-06,36
+186,VS. Redux,150,2010-10-20,54
+187,NOVA,151,2018-07-27,72
+188,Flower Boy,152,2017-07-21,82
+189,ARIZONA BABY,153,2019-04-25,72
+190,"Don't Forget About Me, Demos",154,2018-10-16,71
+191,Blueberry Faygo,155,2020-02-07,87
+192,The New Toronto 3,156,2020-04-10,85
+193,Meet The Woo,157,2019-07-26,82
+194,Paper Trail,158,2008-09-08,75
+195,Oxymoron,159,2014-01-01,74
+196,NOIR,160,2018-11-08,67
+197,LM$,161,2019-05-23,55
+198,There's A lot Going On,140,2016-06-03,66
+199,Fever,162,2019-05-17,75
+200,Survive The Summer,163,2018-08-03,69
+201,Juicy,164,2019-08-15,64
+202,Amala,164,2019-03-01,76
+203,2014 Forest Hills Drive,165,2014-12-09,84
+204,Speakerboxxx/The Love Below,166,2003-01-01,77
+205,ASTROWORLD,167,2018-08-03,94
+206,Born Sinner,165,2013-06-14,76
+207,Greatest Hits: My Prerogative,168,2004-01-01,55
+208,Tomorrow,169,2007-09-07,65
+209,Short Kings Anthem,24,2019-06-21,62
+210,Currents,170,2015-07-17,84
+211,Nothing Was The Same,171,2013-01-01,68
+212,"Now, Not Yet",172,2019-08-09,69
+213,DUMMY BOY,173,2018-11-27,85
+214,I Love You.,174,2013-04-19,78
+215,Replay,175,2009-08-11,68
+216,Lalala,176,2019-06-28,80
+217,Demons,109,2020-05-01,2
+218,WANT,177,2008-07-07,65
+219,"Hi, It's Me",178,2019-07-12,73
+220,Please Excuse Me For Being Antisocial,179,2019-12-06,94
+221,Hot Fuss,180,2004-06-15,76
+222,Stay,181,2018-11-30,45
+223,Your Love (Déjà vu),182,2020-02-19,64
+224,Ferrari Boyz,183,2011-08-05,47
+225,Let Go,184,2002-06-04,78
+226,Breakaway,185,2004-01-17,74
+227,R&G (Rhythm & Gangsta): The Masterpiece,186,2004-01-01,63
+228,SremmLife,187,2015-01-06,79
+229,Hoodie SZN,188,2018-12-21,84
+230,Scorpion,171,2018-06-29,89
+231,St. Elsewhere,189,2006-05-02,66
+232,Lemonade,76,2016-04-23,90
+233,Thank Me Later,171,2010-01-01,68
+234,The Kickback,190,2011-07-12,59
+235,Institution,191,2015-12-26,66
+236,LONG.LIVE.A$AP,192,2013-01-01,78
+237,Project Baby 2,191,2017-08-17,36
+238,Soul Searching,193,2019-08-09,58
+239,RITMO (Bad Boys For Life),194,2019-12-20,60
+240,Body,195,2018-07-20,52
+241,So Much Fun,196,2019-08-16,81
+242,KIRK,142,2019-09-27,87
+243,Remember Me,197,2018-10-08,67
+244,You Think You're a Comic!,127,2018-02-08,46
+245,Butterfly,197,2018-03-09,60
+246,Wannabewithu,7,2016-07-09,70
+247,Romance Garbage,198,2018-07-07,58
+248,Falling for U,199,2017-08-14,72
+249,She Live,200,2019-05-10,47
+250,Drew Barrymore,201,2017-12-01,65
+251,I AM YOU,202,2018-08-03,81
+252,The Time Of Our Lives,203,2009-01-01,70
+253,iSouljaBoyTellem,204,2008-01-01,71
+254,souljaboytellem.com,204,2007-01-01,71
+255,The Beautiful & Damned,205,2017-12-15,78
+256,Chocolate Factory,206,2003-01-01,66
+257,Finesse,130,2018-06-29,90
+258,All I Feel,207,2008-04-08,60
+259,Jason Derulo,208,2010-02-24,69
+260,The Trinity,209,2005-09-26,72
+261,Goodies,210,2004-09-24,72
+262,Freedom,211,2008-01-01,67
+263,"Passion, Pain & Pleasure",212,2010-09-13,69
+264,Crunkest Hits,213,2011-03-15,62
+265,Hot Mess,214,2009-07-07,61
+266,Country Grammar,215,2000-06-27,73
+267,Flockaveli,216,2010-10-01,72
+268,Teenage Dream,217,2012-03-12,82
+269,Gravity,218,2016-11-11,45
+270,All That We Needed,219,2005-01-01,74
+271,Somewhere Somehow,220,2013-01-01,69
+272,All The Little Lights,221,2013-02-17,71
+273,Science & Faith,222,2011-01-18,60
+274,The Bedroom Demos,223,2008-05-04,66
+275,It's About Us,224,2014-10-06,75
+276,Chaos And The Calm,225,2014-12-15,71
+277,Is There Anybody Out There?,226,2014-01-20,73
+278,Birdy,227,2011-11-04,72
+279,head or heart,228,2014-03-27,63
+280,us,229,2016-03-25,75
+281,Only Human,230,2018-03-09,83
+282,Jealous,8,2014-11-21,73
+283,The Fault In Our Stars: Music From The Motion Picture,231,2014-05-19,65
+284,The Pinkprint,232,2014-12-15,73
+285,x,231,2014-06-21,85
+286,Unapologetic,123,2012-12-11,69
+287,How To Save A Life,233,2005-09-13,77
+288,Better,234,2016-04-29,68
+289,Flicker,235,2017-10-20,80
+290,James Arthur,236,2013-11-04,74
+291,lovestrong,228,2011-05-10,70
+292,The Thrill Of It All,133,2017-11-03,75
+293,25,65,2016-06-24,78
+294,Eyes Open,237,2006-01-01,74
+295,Coco,238,2007-01-01,65
+296,Unbreakable Smile,239,2016-01-29,63
+297,Not About Angels,227,2014-04-13,69
+298,Handwritten,44,2015-11-20,77
+299,Back to You,240,2018-05-10,71
+300,Culture II,241,2018-01-26,81
+301,Asleep In The Bread Aisle,242,2009-01-01,58
+302,Or Nah,243,2014-06-10,74
+303,Top Five (Music From And Inspired By The Motion Picture),244,2014-12-09,56
+304,She Belongs to the Game,245,2015-10-19,58
+305,Magic In The Hamptons,246,2018-06-08,77
+306,Stadium Arcadium,247,2006-05-09,81
+307,Me And My Gang,248,2006-01-01,73
+308,The Carter V,249,2018-09-28,77
+309,Melodrama,250,2017-06-16,77
+310,Lazy Fair,201,2014-04-22,67
+311,All Night Longer,251,2012-08-20,61
+312,Jordan Belfort,252,2015-08-26,68
+313,The Trojan Horse,253,2017-06-16,52
+314,A Town Called Paradise,254,2014-06-13,61
+315,The Story of Us,255,2017-09-15,71
+316,BOOMIVERSE,256,2017-06-16,63
+317,The Click,62,2017-06-09,73
+318,This Feeling,257,2016-08-16,49
+319,The Name Above the Title,258,2016-10-14,58
+320,La La Land,201,2019-07-05,67
+321,ROXANNE,161,2019-10-10,87
+322,Alone Together,259,2016-04-08,59
+323,Don't Forget,129,2008-01-01,61
+324,Landmark,260,2017-02-24,68
+325,Kid Krow,261,2020-03-20,84
+326,Rivers in the Wasteland,262,2014-04-17,58
+327,Put Your Records On,263,2020-04-24,47
+328,CLERKS II (Music From The Motion Picture),272,2010-07-27,41
+329,Close To You,273,1970-01-01,58
+330,Greatest,274,1979-01-01,79
+331,America,275,1972-01-01,72
+332,Hotel California,276,1976-12-08,79
+333,Boston,277,1976-01-01,77
+334,Chicago X,278,1976-06-14,69
+335,American Pie,279,1971-01-01,73
+336,I Am,280,1976-06-01,71
+337,Bigger Than Both Of Us,281,1976-08-01,66
+338,The Chic Organization 1977-1979,282,1976-01-01,68
+339,Hot Chocolate,283,1975-01-01,66
+340,Summer Breeze,284,1972-01-01,55
+341,Minute by Minute,285,1978-01-01,65
+342,Band On The Run,286,1973-12-05,69
+343,No Secrets,287,1972-01-01,70
+344,Honky Chateau,131,1972-05-19,76
+345,Off the Wall,288,1979-08-10,75
+346,Freedom for the Stallion,289,1973-01-01,56
+347,Get The Knack,290,1979-01-01,68
+348,Rumours,291,1977-02-04,83
+349,Songs Of Love And Hate,292,1971-03-19,59
+350,Witching Hour,293,2005-01-01,37
+351,Weekend,294,2013-10-14,38
+352,The Tales That We Tell,294,2017-06-16,22
+353,Crossing The Rubicon,294,2009-06-01,41
+354,Duran Duran,295,1981-06-15,58
+355,Rio,295,1982-05-10,70
+356,Seven and the Ragged Tiger,295,1983-11-21,56
+357,Arena,295,1984-11-12,48
